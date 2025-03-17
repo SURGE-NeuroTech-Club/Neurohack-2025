@@ -1,9 +1,46 @@
+# The SURGE NeuroHackathon 2025 has Concluded!
+
+Thank you to everyone who participated, our volunteers, and event coordinators for making this event a success! We hope you had a great time and learned a lot about Brain-Computer Interfaces and EEG data analysis.
+
+**We hope to see you at the next SURGE NeuroHackathon!**
+
+## 🏆 Congratulations to the Winners!
+
+You can find the winning teams projects in the `Winning-Submissions/` folder.
+
+### 🥇 [First Place: *Fractals*](./Winning-Submissions/Fractals_First_Place/)
+- Kate, Jules, Yasmin, Hayat, and Fatemeh
+
+For their submission of a program that displays a calming fractal animation to the user if increased levels of stress are detected.
+
+
+### 🥈 [Second Place: *GO HACK*](./Winning-Submissions/GO-HACK_Second_Place/)
+- Iliyan, and Yuhan
+
+For their submission of a game that uses EEG signals to control game mechanics.
+
+### 🥉 [Third Place: *Attenti-Meter*](./Winning-Submissions/Attenti-Meter_Third_Place/)
+- Tiana, Zain, Cage, Roqaya, and Ellizabeth
+
+For their submission of a program that analyzes EEG signals to measure a user's focus during a sustained attention task.
+
+### 🎉 A huge shoutout to all participants! Every project showcased incredible creativity and problem-solving skills. We hope to see you at the next SURGE NeuroHackathon!
+
+---
+
+
 # 🧠 Welcome to the 2025 SURGE NeuroHackathon!
 
 Welcome to the **SURGE NeuroHackathon 2025**, where you'll get hands-on experience developing Brain-Computer Interfaces (BCIs) and analyzing neural data. Over the course of this weekend, you'll work in teams to prototype applications using EEG signals.
 
 ## Table of Contents
 
+- [The SURGE NeuroHackathon 2025 has Concluded!](#the-surge-neurohackathon-2025-has-concluded)
+  - [🏆 Congratulations to the Winners!](#-congratulations-to-the-winners)
+    - [🥇 First Place: *Fractals*](#-first-place-fractals)
+    - [🥈 Second Place: *GO HACK*](#-second-place-go-hack)
+    - [🥉 Third Place: *Attenti-Meter*](#-third-place-attenti-meter)
+    - [🎉 A huge shoutout to all participants! Every project showcased incredible creativity and problem-solving skills. We hope to see you at the next SURGE NeuroHackathon!](#-a-huge-shoutout-to-all-participants-every-project-showcased-incredible-creativity-and-problem-solving-skills-we-hope-to-see-you-at-the-next-surge-neurohackathon)
 - [🧠 Welcome to the 2025 SURGE NeuroHackathon!](#-welcome-to-the-2025-surge-neurohackathon)
   - [Table of Contents](#table-of-contents)
 - [Hackathon Schedule](#hackathon-schedule)
